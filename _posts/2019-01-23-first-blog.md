@@ -4,7 +4,7 @@ title:        "Hello 2019"
 subtitle:     '抽出时间做想做的事'
 date:         2019-01-23
 author:       "Huazhi"
-header-img:   "img/in-post/2019-01-23-post-bg-first-blog.jpg"
+header-img:   "img/in-post/post-bg-first-blog.jpg"
 header-mask:  0.3
 catalog:      true
 multilingual: false

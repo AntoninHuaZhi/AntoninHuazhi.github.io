@@ -14,7 +14,7 @@ future: true
 # SNS settings
 RSS: false
 weibo_username:     5559902108
-zhihu_username:     Stay-hungary
+zhihu_username:     stay-hungary
 github_username:    AntoninHuaZhi
 # twitter_username:   huxpro
 #facebook_username:  huxpro
