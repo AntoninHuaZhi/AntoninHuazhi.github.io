@@ -5,7 +5,7 @@ header-img: img/home-zhz.jpg
 email: antonin_zhz@163.com
 description: "不管以后如何，总感觉得留下些什么"
 keyword: "赵华治，Antonin，航空攻城狮，立体视觉，节能减排，数据挖掘与分析"
-url: "https://zhaohuazhi.cn"              # your host, for absolute URL
+url: "https://AntoninHuaZhi.github.io"             # your host, for absolute URL
 baseurl: ""                             # for example, '/blog' if your blog hosted on 'host/blog'
 
 # Publish posts or collection documents with a future date.
@@ -13,8 +13,8 @@ future: true
 
 # SNS settings
 RSS: false
-weibo_username:     一懒众衫小h
-zhihu_username:     Stay hungary
+weibo_username:     5559902108
+zhihu_username:     Stay-hungary
 github_username:    AntoninHuaZhi
 # twitter_username:   huxpro
 #facebook_username:  huxpro

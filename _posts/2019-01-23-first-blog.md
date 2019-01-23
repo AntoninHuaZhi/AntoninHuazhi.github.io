@@ -4,7 +4,7 @@ title:        "Hello 2019"
 subtitle:     '抽出时间做想做的事'
 date:         2019-01-23
 author:       "Huazhi"
-header-img:   "img/in-post/post-bg-first-blog.jpg"
+header-img:   "img/in-post/2019-01-23-post-bg-first-blog.jpg"
 header-mask:  0.3
 catalog:      true
 multilingual: false
@@ -12,9 +12,8 @@ tags:
   - 随笔
 ---
 
-都说种一棵树最好的时间是在十年前，其次是现在。
-
----
+>都说种一棵树最好的时间是在十年前，其次是现在。
+>                      
 
 其实我一直想找一个地方写写东西，无论是我目前学生阶段的一些感悟，还是我平常做的研究内容、琢磨的一些有趣的好玩的，都想通过一个平台把它们记录下来。结果苦于时间上的问题，这项工作一直未能开展。直到看到同学院大佬通哥的朋友圈，才发现了这个酷炫的基于 Github 搭建个人博客的方法（如果你也想搭建个人博客，详细的方法请参考[基于 Github 搭建个人博客全过程详解](http://iliutong.cn/2018/02/21/build-blog-with-github/) ），当时就心动了，于是花了两天时间完成了我个人博客的搭建：[华治的博客](http://zhaohuazhi.cn/)
 
